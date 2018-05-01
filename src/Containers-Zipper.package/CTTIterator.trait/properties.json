@@ -1,0 +1,7 @@
+{
+	"commentStamp" : "<historical>",
+	"classinstvars" : [ ],
+	"category" : "Containers-Zipper-Core",
+	"instvars" : [ ],
+	"name" : "CTTIterator"
+}

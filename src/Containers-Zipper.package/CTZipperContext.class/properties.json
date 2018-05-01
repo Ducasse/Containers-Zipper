@@ -1,0 +1,18 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"category" : "Containers-Zipper-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Top"
+	],
+	"instvars" : [
+		"parent",
+		"before",
+		"after",
+		"formerValue"
+	],
+	"name" : "CTZipperContext",
+	"type" : "normal"
+}

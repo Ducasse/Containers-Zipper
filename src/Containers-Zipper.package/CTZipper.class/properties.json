@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "StephaneDucasse 5/1/2018 17:15",
+	"super" : "Object",
+	"category" : "Containers-Zipper-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Nothing"
+	],
+	"instvars" : [
+		"configuration",
+		"context",
+		"value"
+	],
+	"name" : "CTZipper",
+	"type" : "variable"
+}

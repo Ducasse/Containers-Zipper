@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "CTAbstractIteratorTest",
+	"category" : "Containers-Zipper-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CTPostDepthFirstIteratorTest",
+	"type" : "normal"
+}

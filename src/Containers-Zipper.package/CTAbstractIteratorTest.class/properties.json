@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TestCase",
+	"category" : "Containers-Zipper-Tests",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"zipper"
+	],
+	"name" : "CTAbstractIteratorTest",
+	"type" : "normal"
+}

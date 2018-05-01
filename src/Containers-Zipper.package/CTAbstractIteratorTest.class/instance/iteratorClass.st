@@ -1,0 +1,3 @@
+accessing
+iteratorClass
+	self subclassResponsibility 

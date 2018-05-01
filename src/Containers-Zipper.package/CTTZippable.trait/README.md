@@ -1,0 +1,1 @@
+Any class that implements the protocol of this trait can be zipped out-of-the-box without customizing the default configuration.

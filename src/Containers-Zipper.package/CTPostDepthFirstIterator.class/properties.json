@@ -1,0 +1,13 @@
+{
+	"classtraitcomposition" : "CTTIterator classTrait",
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CTPostDepthFirstIterator",
+	"commentStamp" : "",
+	"super" : "Object",
+	"traitcomposition" : "CTTIterator",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Containers-Zipper-Core"
+}

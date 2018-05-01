@@ -1,0 +1,18 @@
+{
+	"classtraitcomposition" : "CTTZipperConfiguration classTrait",
+	"classvars" : [ ],
+	"instvars" : [
+		"childrenOfBlock",
+		"isBranchBlock",
+		"buildNewBlock",
+		"iterator"
+	],
+	"name" : "CTZipperConfiguration",
+	"commentStamp" : "<historical>",
+	"super" : "Object",
+	"traitcomposition" : "CTTZipperConfiguration",
+	"type" : "normal",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"category" : "Containers-Zipper-Core"
+}

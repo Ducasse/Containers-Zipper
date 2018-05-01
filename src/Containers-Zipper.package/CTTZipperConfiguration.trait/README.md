@@ -1,0 +1,1 @@
+Protocol for zipper configurations
